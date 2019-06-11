@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#
 # Return if a user has OpenJDK or OracleJDK (otherwise known as ClosedJDK)
 
 # Check /Library/Java for versions of Java
